@@ -133,3 +133,9 @@ dist
 #mochawesomeReports
 
 mochawesome-report
+
+Dockerfile
+Dockerfile.test
+node_modules
+.gitignore
+.git
